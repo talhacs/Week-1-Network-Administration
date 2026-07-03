@@ -27,4 +27,4 @@ Connectivity between devices was tested successfully using the ping command.
 
 ### Author
 
-Talha Khan
+Talha Asghar
